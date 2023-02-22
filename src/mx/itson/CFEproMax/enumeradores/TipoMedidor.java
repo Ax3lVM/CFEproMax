@@ -1,6 +1,6 @@
 package mx.itson.CFEproMax.enumeradores;
 
-import com.sun.xml.internal.ws.developer.Serialization;
+
 
 /**
  *
@@ -8,6 +8,10 @@ import com.sun.xml.internal.ws.developer.Serialization;
  */
 public enum TipoMedidor {
  
+ELECTROMECANICO,
+ELETRONICO,
+BIFASICO,
+TRIFASICO
 
    
 }
