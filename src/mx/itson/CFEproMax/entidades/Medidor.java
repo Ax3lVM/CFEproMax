@@ -7,6 +7,6 @@ package mx.itson.CFEproMax.entidades;
 public class Medidor {
     
 int numeroMedidor;
-
+    private int tipoMedidor;
 
 }
