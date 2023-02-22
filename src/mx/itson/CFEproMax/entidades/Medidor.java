@@ -1,5 +1,7 @@
 package mx.itson.CFEproMax.entidades;
 
+import mx.itson.CFEproMax.enumeradores.TipoMedidor;
+
 /**
  *
  * @author gabri
@@ -7,6 +9,6 @@ package mx.itson.CFEproMax.entidades;
 public class Medidor {
     
 int numeroMedidor;
-    private int tipoMedidor;
+    
 
 }
