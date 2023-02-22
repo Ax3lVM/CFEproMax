@@ -5,7 +5,7 @@
 package mx.itson.CFEproMax.enumeradores;
 
 /**
- *
+ *  Contiene los enumeradores de los datos del Objeto Factura
  * @author axelt
  */
 public enum Servicio {

@@ -3,8 +3,8 @@ package mx.itson.CFEproMax.entidades;
 import java.util.List;
 
 /**
- *
- * @author gabri
+ * Almacena las varables del Objeto Cuenta
+ * @author axelt
  */
 public class Cuenta {
 

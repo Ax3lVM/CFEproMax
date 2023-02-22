@@ -11,7 +11,7 @@ import mx.itson.CFEproMax.enumeradores.Servicio;
  */
 
 /**
- *
+ * Almacena las varables del Objeto factura
  * @author axelt
  */
 public class Factura {

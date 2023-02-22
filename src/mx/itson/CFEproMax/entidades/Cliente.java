@@ -1,8 +1,8 @@
 package mx.itson.CFEproMax.entidades;
 
 /**
- *
- * @author gabri
+ * Almacena las varables del Objeto Cliente
+ * @author axelt
  */
 public class Cliente {
 
